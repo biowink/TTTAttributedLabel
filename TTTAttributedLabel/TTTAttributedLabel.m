@@ -1809,7 +1809,7 @@ static inline NSDictionary * convertNSAttributedStringAttributesToCTAttributes(N
         NSUnderlineColorAttributeName:  (NSString *)kCTUnderlineColorAttributeName,
         NSUnderlineStyleAttributeName:  (NSString *)kCTUnderlineStyleAttributeName,
         NSStrokeWidthAttributeName:     (NSString *)kCTStrokeWidthAttributeName,
-        NSStrokeColorAttributeName:     (NSString *)kCTStrokeWidthAttributeName,
+        NSStrokeColorAttributeName:     (NSString *)kCTStrokeColorAttributeName,
         NSKernAttributeName:            (NSString *)kCTKernAttributeName,
         NSLigatureAttributeName:        (NSString *)kCTLigatureAttributeName
     };
